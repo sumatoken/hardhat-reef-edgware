@@ -34,7 +34,7 @@ module.exports = {
       },
     },
     reef_mainnet: {
-      url: "wss://rpc.reefscan.com/ws",
+      url: "wss://edgeware.jelliedowl.net",
       scanUrl: "wss://reefscan.com",
       seeds: {
         mainnet_account: process.env.MNEMONIC_MAINNET || "",
