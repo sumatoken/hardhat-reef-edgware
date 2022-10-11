@@ -23,7 +23,7 @@ module.exports = {
   defaultNetwork: "reef",
   networks: {
     reef: {
-      url: "ws://substrate-node:9944",
+      url: "wss://edgeware.jelliedowl.net",
       scanUrl: "http://api:8000",
     },
     reef_testnet: {
